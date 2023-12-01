@@ -18,11 +18,11 @@ Are you ready to jump in? Here are this week's challenge requirements:
 
 ## Screenshot
 
-![Website hero and navbar.](./assets/website-screenshot-nav-hero.jpg)
+![Website hero and navbar.](./Assets/website-screenshot-nav-hero.jpg)
 
-![Website main section.](./assets/website-screenshot-main.jpg)
+![Website main section.](./Assets/website-screenshot-main.jpg)
 
-![Website footer.](./assets/website-screenshot-footer.jpg)
+![Website footer.](./Assets/website-screenshot-footer.jpg)
 
 ## Link
 
