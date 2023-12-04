@@ -18,12 +18,12 @@ Are you ready to jump in? Here are this week's challenge requirements:
 
 ## Screenshot
 
-![Website hero and navbar.](./Assets/website-screenshot-nav-hero.jpg)
+![Website hero and navbar.](./assets/images/website-screenshot-nav-hero.jpg)
 
-![Website main section.](./Assets/website-screenshot-main.jpg)
+![Website main section.](./assets/images/website-screenshot-main.jpg)
 
-![Website footer.](./Assets/website-screenshot-footer.jpg)
+![Website footer.](./assets/images/website-screenshot-footer.jpg)
 
 ## Link
 
-https://rhen-quadros.github.io/seo-accessibility/starter/index.html
+https://rhen-quadros.github.io/seo-accessibility/index.html
